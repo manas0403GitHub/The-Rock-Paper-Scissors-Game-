@@ -142,12 +142,12 @@ while True:
                     os.system('cls' if os.name == 'nt' else 'clear')
                     YourScore == 0
                     AIScore == 0
-                    continue
+                    main_elements()
 
                 elif again == 'N':
                     # When the var again equals to 'N'
                     againY = "No"
-                    continue
+                    exit()
                 else:
                     print("Use Upper Case")
 
