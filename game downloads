@@ -1,0 +1,24 @@
+To Download the game:
+  1st click on main.py
+  2th click on the download raw file
+  3nd press Ctrl+J and click on "Show in folder"
+  4th right click on the main.py file.
+  note: you need to download the python IDLE to run the main.py
+  5th click on Open with and select python
+
+How to play the game:
+  idea: the game is the rock, paper, scissors game but its more stuff
+  Rock: Form a closed fist to represent rock. Rock beats scissors by crushing them.
+
+  Paper: Lay your fingers flat and keep them together to play paper. Paper wraps around rock to lock it down, but it loses to scissors.
+
+  Scissors: Make a peace sign with your index and middle finger to represent scissors. Scissors cut through paper but lose to rock.
+
+  Remember this phrase: “Rock breaks scissors, scissors cut paper, paper covers rock.”
+  
+  When playing a round:
+  
+  Stand a few paces apart from your opponent.
+  Face each other and hold your hands up at your stomach.
+  Count “rock, paper, scissors” by tapping your hands together.
+  On the count of three, both players reveal their choices by forming rock, paper, or scissors with their hands.
