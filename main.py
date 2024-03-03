@@ -90,6 +90,7 @@ while True:
                 elif choose == 'P' and AiChoose == 1:
                     print("Your Paper Smoothered Player 2's Rock!")
                     YourScore += 1
+                    Points += 1
                     if Settings == 'N':
                         AIRevenge = random.randint(1, 2)
                         if AIRevenge == 1:
@@ -106,6 +107,7 @@ while True:
                 elif choose == 'S' and AiChoose == 2:
                     print("Your Scissors Cuts Player 2's Paper!")
                     YourScore += 1
+                    Points += 1
                     if Settings == 'N':
                         AIRevenge = random.randint(1, 2)
                         if AIRevenge == 1:
@@ -122,6 +124,7 @@ while True:
                 elif choose == 'R' and AiChoose == 3:
                     print("Your Rock Breaks Player 2's Scissors!")
                     YourScore += 1
+                    Points += 1
                     if Settings == 'N':
                         AIRevenge = random.randint(1, 2)
                         if AIRevenge == 1:
