@@ -146,6 +146,7 @@ while True:
                     YourScore == 0
                     AIScore == 0
                     main_elements()
+                    continue
 
                 elif again == 'N':
                     # When the var again equals to 'N'
