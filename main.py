@@ -12,15 +12,16 @@ Settings = "N"
 
 while True:
     # Title:
-    if againY == 'No' or againY == 'Yes':
-        print("")
-        print(f"{i: ^70} The Rock, Paper, Scrissors Game!")
-        print("")
-        menu = input("""▶️  S to Start, 
-        ❌ Q to quit, 
-        👍 P to PowerUps
-        🔄 SS to Settings: """)
-        os.system('cls' if os.name == 'nt' else 'clear')
+    def menu():
+        if againY == 'No' or againY == 'Yes':
+            print("")
+            print(f"{i: ^70} The Rock, Paper, Scrissors Game!")
+            print("")
+            menu = input("""▶️  S to Start, 
+            ❌ Q to quit, 
+            👍 P to PowerUps
+            🔄 SS to Settings: """)
+            os.system('cls' if os.name == 'nt' else 'clear')
 
     if menu == 'S':
         AIScore = 0
@@ -152,7 +153,8 @@ while True:
                 elif again == 'N':
                     # When the var again equals to 'N'
                     againY = "No"
-                    exit()
+                    menu()
+                    
                 else:
                     print("Use Upper Case")
 
