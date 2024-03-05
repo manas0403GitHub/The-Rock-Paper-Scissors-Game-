@@ -2,12 +2,9 @@ Get ready for an adventure! Follow these easy steps to download the game and emb
 
 1. Click on the 📂 main.py file.
 2. Click on the ⬇️ "Download raw file" option.
-3. Press Ctrl+J and click on "Show in folder". 
-4. Click on the 📂 main.py file. 
+3. Press Ctrl+J and click on it.  
 
 Hey there! Ready to start coding with Python? To run the main.py file, you'll need to download the Python IDLE 🐍. Don't worry, it's super easy to get started!
-
-5. Click on "Open with" and select 🐍 Python. 
 
 Here's how to play the game: 
 The game is like rock, paper, scissors, but with more items. 
@@ -18,7 +15,6 @@ The game is like rock, paper, scissors, but with more items.
 
 ✂️ Scissors: Make a peace sign with your fingers✌️. Scissors beat paper. 
 
-To play the game of rock-paper-scissors, players should stand a few steps away from each other and position their hands at their stomach level. The game follows a simple rule: rock breaks scissors, scissors cut paper, and paper covers rock. To start the game, both players should count "rock, paper, scissors" by tapping their hands together. On the count of three, both players should reveal their choices by making rock, paper, or scissors with their hands. The game is designed to be simple and requires no technical expertise.
+To play the game of rock-paper-scissors, players should stand a few steps away from each other and position their hands at their stomach level. The game follows a simple rule: rock breaks scissors, scissors cut paper, and paper covers the rock. To start the game, both players should count "rock, paper, scissors" by tapping their hands together. On the count of three, both players should reveal their choices by making rock, paper, or scissors with their hands. The game is designed to be simple and requires no technical expertise.
 
 Have fun playing the game! 🎉
-
