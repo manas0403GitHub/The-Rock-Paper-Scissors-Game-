@@ -137,7 +137,7 @@ while True:
                 print(f"Player 2 Score: {AIScore}")
                 
         def main_system():
-            while True
+            while True:
                 main_elements()
                 # Again
                 again = input("Again? Y/N: ")
