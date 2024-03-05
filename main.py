@@ -16,7 +16,7 @@ while True:
         print("")
         print(f"{i: ^70} The Rock, Paper, Scrissors Game!")
         print("")
-        menu = input("""◀️  S to Start, 
+        menu = input("""▶️  S to Start, 
         ❌ Q to quit, 
         👍 P to PowerUps
         🔄 SS to Settings: """)
