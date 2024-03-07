@@ -22,7 +22,7 @@ while True:
             👍 P to PowerUps
             🔄 SS to Settings: """)
             os.system('cls' if os.name == 'nt' else 'clear')
-
+    menu()
     if menu == 'S':
         AIScore = 0
         YourScore = 0
